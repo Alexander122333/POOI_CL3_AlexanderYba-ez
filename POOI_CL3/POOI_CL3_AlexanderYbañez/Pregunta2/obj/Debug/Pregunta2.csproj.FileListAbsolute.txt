@@ -1,0 +1,12 @@
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\bin\Debug\Pregunta2.exe.config
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\bin\Debug\Pregunta2.exe
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\bin\Debug\Pregunta2.pdb
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\obj\Debug\Pregunta2.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\obj\Debug\Pregunta2.Form1.resources
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\obj\Debug\Pregunta2.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\obj\Debug\Pregunta2.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\obj\Debug\Pregunta2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\obj\Debug\Pregunta2.exe
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\obj\Debug\Pregunta2.pdb
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\obj\Debug\Pregunta2.Forms.BuscarVehiculoXAño.resources
+C:\Users\Alexander\Desktop\Alex\POOI_CL3_AlexanderYbañez\Pregunta2\obj\Debug\Pregunta2.Forms.Vehiculos.resources
